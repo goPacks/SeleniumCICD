@@ -19,6 +19,8 @@ public class NUnitTestsDemo
     private ExtentTest _extentTest;
     private ExtentTest _testNode;
 
+    /* This is a Nunit Test */
+
     public NUnitTestsDemo(string userName, string password, DriverType driverType)
     {
         this.userName = userName;
